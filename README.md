@@ -6,7 +6,7 @@ A two-layer neural network (multi-layer perceptron) written in numpy that learns
 
 ## Theory
 
-Lecture notes for this topic are coming soon on https://parag1604.github.io/notes
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Neural-Networks) (sections "Multilayer perceptrons", "Backpropagation" and "Training in practice")
 
 ## Python Environment Setup
 
