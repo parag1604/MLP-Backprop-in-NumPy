@@ -19,10 +19,6 @@ pip install -r requirements.txt
 - Numpy - required for vectorized operations
 - Matplotlib - required for plotting
 
-## Data
-
-No download needed: the four XOR points are defined in `utils.py`.
-
 ## Running
 
 The network (`Layer` and `Network`, with `forward`, `backward`, `zero_grad` and `update`) lives in `model.py`. Each version adds one idea. Every script accepts `--num-hidden`, `--lr`, `--num-iters`, `--batch-size` and `--seed`.
